@@ -7,3 +7,4 @@ min(mtcars$mpg)
 max(mtcars$mpg)
 
 mean(mtcars$hp)
+sd(mtcars$hp)
