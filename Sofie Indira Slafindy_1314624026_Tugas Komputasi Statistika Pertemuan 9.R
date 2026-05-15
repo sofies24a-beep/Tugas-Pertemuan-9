@@ -8,3 +8,4 @@ max(mtcars$mpg)
 
 mean(mtcars$hp)
 sd(mtcars$hp)
+median(mtcars$hp)
